@@ -5,7 +5,7 @@
 
 .main{
     width: 100%;
-    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(1.jpg);
+    background-image: linear-gradient( to bottom right, #1C315E, #C0DEFF, #3a78ba);
     background-position: center;
     background-image: doctor;
     background-size:cover;
